@@ -1,0 +1,2 @@
+(this.webpackJsonpwifi_gen=this.webpackJsonpwifi_gen||[]).push([[0],{16:function(e,n,i){"use strict";i.r(n);i(1);var c=i(3),t=i.n(c),s=(i(8),i(9),i(0));function r(){return Object(s.jsxs)("div",{className:"container-fluid p-0",children:[Object(s.jsx)("div",{className:"bg"}),Object(s.jsx)("h1",{children:"Wifi-Gen.ca"})]})}i(11),i(12);t.a.render(Object(s.jsx)(r,{}),document.getElementById("root"))},8:function(e,n,i){},9:function(e,n,i){}},[[16,1,2]]]);
+//# sourceMappingURL=main.73f34579.chunk.js.map
